@@ -50,7 +50,7 @@ Simply open the `index.html` file in your browser.
 
 ---
 
-## 🌐 API Endpoints (Used in Frontend)
+## 🌐 API Endpoints
 | Method | Endpoint | Description |
 |--------|---------|------------|
 | **GET** | `/api/book/all` | Fetch all books |
