@@ -56,6 +56,7 @@ Simply open the `index.html` file in your browser.
 | **GET** | `/api/book/all` | Fetch all books |
 | **POST** | `/api/book/create` | Add a new book |
 | **PUT** | `/api/book/modify` | Update a book |
+| **FIND** | `/api/book/find/{id}` | Find a book |
 | **DELETE** | `/api/book/remove/{id}` | Delete a book |
 
 ---
