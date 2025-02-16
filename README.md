@@ -1,6 +1,6 @@
-# 📚 Book Management System (Frontend)
+# 📚 Book Management System
 
-This is a **Book Management System** frontend built with **HTML, CSS, and JavaScript** that interacts with a **REST API** to manage books. It allows users to **add, update, and delete books** dynamically.
+This is a **Book Management System** frontend built with **HTML, CSS, and JavaScript** that interacts with **Spring-boot REST API** to manage books. It allows users to **add, update, and delete books** dynamically.
 
 ---
 
@@ -75,7 +75,7 @@ Simply open the `index.html` file in your browser.
 ## 🛠️ Technologies Used
 - **Frontend:** HTML, CSS, JavaScript (Vanilla JS)
 - **Backend:** REST API (Spring Boot)
-- **Database:** MySQL / H2 (Based on API)
+- **Database:** MySQL
 
 ---
 
